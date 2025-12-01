@@ -9,3 +9,4 @@ Elite YouTube
   Where there is high-value people's complaints, there is market.
 - Similar apps to reference: Netflix, PrimeVideo, Bilibili, YouTube not really cause it is too complicated for now.
 - The potential issue: Netflix, PrimeVideo all have legal copyrights.
+- Key to success: day-to-day operations, day-to-day high quality intensive-info contents delivery to viewers. Just like Khan Academy. The contents have to be high quality and as simple as Khan Academy. Make complicated questions simple.
